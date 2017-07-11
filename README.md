@@ -25,13 +25,20 @@ Make sure it says 1.8.x. and you're good to go.
 
 Create a Github user account and commit all your code to Github. It will help you in the future. 
 
+### A bit of history
 
+* [A short history of Java](https://dzone.com/articles/a-short-history-of-java)
+* [Java & Cafe Babe](https://dzone.com/articles/the-magic-word-in-java-cafebabe)
 
+### Places to get help
 
+* [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/) - Go through the tutorial atelast once. They provide an overview of almost all the features of Java with appropirate examples and motivation behind the design decisions. 
+* [Oracle Java Docs](https://docs.oracle.com/javase/8/docs/api/) - This is where you'll spend a large amount of your time. Get used to reading the Java Docs. 
 
+### If you want to get into the gory internals
 
-
-
+* [Java Language specification](https://docs.oracle.com/javase/specs/jls/se8/html/index.html) - Though a bit pedantic and boring at times, this is the place to start (or atleast skim through) if you want to get into the Java internals.
+* [JVM Specification](http://docs.oracle.com/javase/specs/jvms/se7/html/index.html) - The JVM specs give you an insight into the inner workings of the JVM. The guide lays down rules and behaviors that JVM implementations are supposed to conform to. Read the specs first before getting into the JVM code. Contains a very readable, high-level overview of how the Java GC works.
 ----
 References:
  
