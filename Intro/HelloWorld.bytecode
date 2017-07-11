@@ -1,0 +1,27 @@
+Compiled from "HelloWorld.java"
+class HelloWorld {
+  HelloWorld();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+
+  public static void main(java.lang.String[]);
+    Code:
+       0: iconst_1
+       1: istore_1
+       2: iconst_1
+       3: istore_2
+       4: iload_1
+       5: iload_2
+       6: invokestatic  #2                  // Method add:(II)I
+       9: istore_3
+      10: return
+
+  public static int add(int, int);
+    Code:
+       0: iload_0
+       1: iload_1
+       2: iadd
+       3: ireturn
+}
