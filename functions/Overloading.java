@@ -1,5 +1,3 @@
-package functions;
-
 public class Overloading {
     // Correct examples
     static int add(int a, int b){
