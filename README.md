@@ -50,8 +50,6 @@ Java is an exteremly verbose and readable langugage. If you ever feel like looki
 [Here](http://javaranch.com/style.jsp) are some accepted practices and conventions to follow when coding in Java.
 
 
-If you're already familiar with Java and want to brush up on its syntax -->
+#### If you're already familiar with Java and want to brush up on its syntax -->
 [Learn X in Y minutes / Java](https://learnxinyminutes.com/docs/java/)
-----
-References:
- 
+--- 
