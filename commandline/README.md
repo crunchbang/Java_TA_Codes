@@ -7,6 +7,7 @@ Paths on \*Nix systems : /home/username/movies/new_movie.mp4
 * `.` - current directory
 * `..` - parent directory
 * `~` - home directory
+* `-` - last directory you were in
 
 ### Getting around
 
@@ -61,3 +62,5 @@ References & Further reading:
 * [TLDP](http://www.tldp.org/LDP/abs/html/index.html)
 
 * [Unix Programming Tools](http://cslibrary.stanford.edu/107/UnixProgrammingTools.pdf)
+
+* [Vi commands](http://web.stanford.edu/~laha/docs/Vi-commands.pdf)
