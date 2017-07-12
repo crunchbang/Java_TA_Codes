@@ -1,6 +1,6 @@
 ### Contents
-* [Introduction to Java](intro/README.md)
-* [Introduction to commandline & Vim](commandline/README.md)
+* [Introduction to Java](intro)
+* [Introduction to commandline & Vim](commandline)
 
 ---
 
