@@ -1,5 +1,5 @@
 ### Contents
-* [Introduction to Java](intro)
+* [Introduction to Java](introduction)
 * [Introduction to commandline & Vim](commandline)
 
 ---
