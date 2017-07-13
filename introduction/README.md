@@ -37,7 +37,7 @@ Create a Github user account and commit all your code to Github. It will help yo
 ### If you want to get into the gory internals
 
 * [Java Language specification](https://docs.oracle.com/javase/specs/jls/se8/html/index.html) - Though a bit pedantic and boring at times, this is the place to start (or atleast skim through) if you want to get into the Java internals.
-* [JVM Specification](http://docs.oracle.com/javase/specs/jvms/se7/html/index.html) - The JVM specs give you an insight into the inner workings of the JVM. The guide lays down rules and behaviors that JVM implementations are supposed to conform to. Read the specs first before getting into the JVM code. Contains a very readable, high-level overview of how the Java GC works.
+* [JVM Specification](http://docs.oracle.com/javase/specs/jvms/se7/html/index.html) - The JVM specs give you an insight into the inner workings of the JVM. The guide lays down rules and behaviors that JVM implementations are supposed to conform to. Read the specs first before getting into the JVM code.
 
 ### Where to get the code
 

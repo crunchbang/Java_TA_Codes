@@ -2,6 +2,10 @@
 * [Introduction to Java](introduction)
 * [Introduction to commandline & Vim](commandline)
 
+
+#### Misc
+[What every computer science major should
+know](http://matt.might.net/articles/what-cs-majors-should-know/)
 ---
 
 This repo is collectively maintained by 
