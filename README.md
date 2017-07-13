@@ -3,9 +3,9 @@
 * [Introduction to commandline & Vim](commandline)
 
 
-#### Misc
-[What every computer science major should
-know](http://matt.might.net/articles/what-cs-majors-should-know/)
+### Misc
+* [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+
 ---
 
 This repo is collectively maintained by 
@@ -13,6 +13,7 @@ This repo is collectively maintained by
 * [Ashok Lathwal](https://github.com/ashoklathwal)
 * [Rahul Sharma](https://github.com/rahul10019)
 * [Shubham Singh](https://github.com/singhShubh)
+
 
 
 
