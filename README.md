@@ -1,7 +1,7 @@
 ### Contents
 * [Introduction to Java](introduction)
 * [Introduction to commandline & Vim](commandline)
-* [Working with multiple files](multiple_class_files)
+* [Working with multiple files - simplified version](solutions/assignment4)
 
 
 ### Misc
