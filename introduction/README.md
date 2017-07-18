@@ -21,7 +21,7 @@ Make sure it says 1.8.x. and you're good to go.
 * [Setting up git for Github](https://help.github.com/articles/set-up-git/)
 * [Github hello-world](https://guides.github.com/activities/hello-world/)
 * [An interactive git tutorial](https://github.com/jlord/git-it)
-* [git - the simple guide](https://github.com/amtj/Java_TA_Codes.git)
+* [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 Create a Github user account and commit all your code to Github. It will help you in the future. 
 
