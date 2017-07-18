@@ -6,6 +6,7 @@
 
 ### Misc
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+* [Awesome Java - A curated list of all things Java!](https://github.com/akullpp/awesome-java)
 
 ---
 
