@@ -9,6 +9,9 @@
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [Awesome Java - A curated list of all things Java!](https://github.com/akullpp/awesome-java)
 * [Vim cheatsheet](https://imgur.com/YLInLlY)
+* [Terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
+* [Defensive Bash programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/)
+* [Bash strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ---
 

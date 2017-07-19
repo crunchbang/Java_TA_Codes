@@ -57,7 +57,6 @@ Bash/Dash is the default shell you get on most systems. Install the fish shell i
 
 
 References & Further reading:
-* [Terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
 
 * [TLDP](http://www.tldp.org/LDP/abs/html/index.html)
 
