@@ -22,6 +22,10 @@ class ColorEnum {
                                 break;
 
                 }
+
+                doSomethingToColor(Color.RED);
+
+
                 System.out.println(outputColor);
 
                 System.out.println("Possible Colors:");
@@ -52,5 +56,19 @@ class ColorEnum {
                                 break;
                 }
                 return c;
+        }
+
+        public static void doSomethingToColor(Color c) {
+                switch(c) {
+                        case RED :
+                                System.out.println("Bloody Red");
+                                break;
+                        case BLUE:
+                                System.out.println("Sky Blue");
+                                break;
+                        case GREEN:
+                                System.out.println("Grass Green");
+                                break;
+                }
         }
 }
