@@ -3,6 +3,7 @@
 * [Introduction to commandline & Vim](commandline)
 * [Working with multiple files - simplified version](solutions/assignment4)
 * [Past assignment solutions](solutions)
+* [Get started with Git](commandline/git.md)
 
 
 ### Misc
