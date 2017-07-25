@@ -55,6 +55,7 @@ public class LoginWindow {
 		bt.setSize(100,40);
 		bt.setLocation(250, 250);
 		bt.addActionListener(new ActionListener() {
+			@SuppressWarnings("deprecation")
 			@Override
 			public void actionPerformed(ActionEvent evt) {
 				if(evt.getSource() == bt) {
