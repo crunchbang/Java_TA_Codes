@@ -4,7 +4,7 @@
 * [Working with multiple files - simplified version](solutions/assignment4)
 * [Past assignment solutions](solutions)
 * [Get started with Git](commandline/git.md)
-
+* [Skeleton for JSONParser](https://github.com/crunchbang/JSONExample)
 
 ### Misc
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
